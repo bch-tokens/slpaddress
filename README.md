@@ -1,4 +1,4 @@
-# cashaddress.org
+# slpaddress.cash
 JavaScript Client-Side Bitcoin Cash Wallet Generator
 
 Generate Bitcoin Cash addresses and their corresponding private key conveniently
